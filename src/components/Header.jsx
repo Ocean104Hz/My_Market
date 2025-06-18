@@ -6,9 +6,9 @@ export default function Header() {
 
     return (
         <>
-            <header>
-                <div>
-                    <div>
+            <header className="header">
+                <div className="hader-container">
+                    <div className="header-content">
                         <div className="logo">
                             <h1>Thai Herb Market</h1>
                         </div>
